@@ -1,0 +1,29 @@
+
+**Project Title:** Medicaid Management Insurance Process (MMIP)
+
+In my final year of MCA, I developed a web application called Medicaid Management Insurance Process (MMIP). This project focused on managing health insurance processes, including creating APIs and Rest APIs for claims authentication and procedure code management. Each part of the human body has a specific procedure code that is crucial during claims submission and authentication. These APIs are used in various modules and services for reference.
+
+The MMIP system is essential for the efficient administration of the Medicaid program, adapting to new regulations, healthcare reforms, and changing needs of Medicaid members. It ensures that individual medical records are accurately maintained and complies with the Health Insurance Portability and Accountability Act (HIPAA) for secure patient information handling.
+
+**Modules:**
+
+1. Administration
+2. Provider
+3. Client
+4. Claims
+5. Reference
+6. Authorization
+
+
+
+Roles and Responsibilities:
+
+Assisting in understanding project requirements, development, and testing.
+Writing code for business logic and routing to the database.
+Implementing database connectivity using JDBC.
+Creating web pages for user interaction using Java Server Pages (JSP).
+Writing SQL queries and procedures/functions.
+Using Mockito framework for writing test cases.
+Helping with enhancements and new features in the project.
+
+**Environment:** Java Standard Edition, Oracle 11g (SQL/PLSQL), JBoss, Eclips, Maven, Gitbash, GitHub
